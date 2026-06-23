@@ -10,12 +10,11 @@ Piech et al. (2015).
 
 ## Results
 
-![AUC over training](figures/auc_curve.png)
+<img src="figures/auc_curve.png" width="500">
 
 Validation AUC reaches ~0.66 over held-out learners, within the range reported
 for DKT on EdNet-KT1 subsamples. Validation tracks train with a small gap and no
-upturn in validation loss, so there is no sign of overfitting at this sequence
-length.
+upturn in validation loss, so there is no sign of overfitting at this sequence length.
 
 ## Data
 
